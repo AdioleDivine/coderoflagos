@@ -8,6 +8,6 @@ I'm Opemipo. A Web & AI Developer from Nigeria and Developer Advocate at Agility
      <br><br>Contact me on <a href="https://twitter.com/coderoflagos">Twitter</a>, <a href="https://www.linkedin.com/in/coderoflagos/">Linkedin</a>, or <a href="mailto:opemipooluwatobiloba58.@gmail.com">Send an Email</a>
   </samp>
 </p>
-
+![Profile views](https://gpvc.arturio.dev/coderoflagos)  
 <!--
 **coderoflagos/coderoflagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
